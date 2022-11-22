@@ -1,1 +1,2 @@
 git github ikinci gün ilk deneme
+git github ikinci gün ikinci  deneme
